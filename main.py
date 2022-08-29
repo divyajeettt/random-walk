@@ -45,7 +45,7 @@ pygame.display.set_caption("Random Walk Simulator")
 
 LOG_FORMAT: str = "%(levelname)s: %(asctime)s - %(message)s"
 logging.basicConfig(
-    filename="random_walk.log", level=logging.INFO, format=LOG_FORMAT
+    filename="random-walk.log", level=logging.INFO, format=LOG_FORMAT
 )
 logger = logging.getLogger()
 
