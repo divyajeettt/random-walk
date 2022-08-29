@@ -36,7 +36,7 @@ logging.basicConfig(
  
  ```python
 logging.basicConfig(
-    filename="ranom-walk.log", level=LEVEL, format=LOG_FORMAT
+    filename="random-walk.log", level=LEVEL, format=LOG_FORMAT
 )
  ```
  
