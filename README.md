@@ -69,6 +69,16 @@ where `Y` is your desired number of blocks for the random-walk.
 
 Note that a large number of walkers and blocks is recommended for a good analysis.
 
+## Controls
+
+Enter: Advance the Random Walk
+A: Toggle the automation the Random Walk
+L: Log the current state of the Walkers into the log file
+T: Toggle the visibility of the tails (last 50 positions visited) of the Walkers
+V: Toggle the visibility of the Walkers' position Vectors
+Left-click (anywhere on the grid): Display the co-ordinates of that Point
+Right-click (anywhere on the grid): Display the number of Walkers within a Euclidean distance of √2 unit(s) of that Point
+
 ## Run
 
 To run, clone the repository on your device, navigate to the folder, and execute:
