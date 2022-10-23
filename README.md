@@ -49,7 +49,7 @@ logging.basicConfig(
 
 ### Edit the number of simulations and blocks
 
-To edit the number of simulations of the random-walk, change [Line 28](https://github.com/divyajeettt/random-walk/blob/8990397adde141d6f2243ee544b0aa9b07fb2ad0/main.py#L28) of `main.py` to
+To edit the **number of simulations** of the random-walk, change [Line 28](https://github.com/divyajeettt/random-walk/blob/8990397adde141d6f2243ee544b0aa9b07fb2ad0/main.py#L28) of `main.py` to
 
 ```python
 # number of random walks to perform (Walkers)
